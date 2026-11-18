@@ -1,0 +1,11 @@
+.openai/
+.env
+.env.*
+!.env.example
+work/
+*.tar.gz
+*.log
+fitfolio-backup-*.json
+*.backup.json
+.DS_Store
+Thumbs.db
